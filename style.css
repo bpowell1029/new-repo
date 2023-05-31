@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+}
+
+.header__title {
+color: brown;
+}
+
+.header__text {
+    color: burlywood;
+}
